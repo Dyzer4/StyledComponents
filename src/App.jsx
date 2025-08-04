@@ -6,7 +6,7 @@ import { Card } from './components/styles/style'
 function App() {
   return (
     <main>
-      <Button>Olá</Button>
+      <Button color="red" content="olá"></Button>
       <Form></Form>
       <Card>
         <h2>Título do Card</h2>
